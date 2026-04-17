@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pip install -r requirements-telegram-helper.txt
+python telegram_api_helper.py
